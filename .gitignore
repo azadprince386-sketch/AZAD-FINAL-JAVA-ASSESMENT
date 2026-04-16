@@ -1,0 +1,6 @@
+out/
+*.class
+campus_data.txt
+.idea/
+*.iml
+.vscode/
