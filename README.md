@@ -146,3 +146,14 @@ Email        : azad@gnc.227
 ---
 
 *Built for GNC College BTech 2nd Year Java Final Assessment*
+
+
+
+
+
+
+![Image Alt](https://github.com/azadprince386-sketch/AZAD-FINAL-JAVA-ASSESMENT/blob/0289a02f387c7c2c92ca02b50f72fb6f7c31362b/Screenshot%202026-04-16%20143131.png)
+![Image Alt](https://github.com/azadprince386-sketch/AZAD-FINAL-JAVA-ASSESMENT/blob/0289a02f387c7c2c92ca02b50f72fb6f7c31362b/Screenshot%202026-04-16%20143354.png)
+![Image Alt](https://github.com/azadprince386-sketch/AZAD-FINAL-JAVA-ASSESMENT/blob/0289a02f387c7c2c92ca02b50f72fb6f7c31362b/Screenshot%202026-04-16%20143443.png)
+![Image Alt](https://github.com/azadprince386-sketch/AZAD-FINAL-JAVA-ASSESMENT/blob/0289a02f387c7c2c92ca02b50f72fb6f7c31362b/Screenshot%202026-04-16%20143510.png)
+![Image Alt](https://github.com/azadprince386-sketch/AZAD-FINAL-JAVA-ASSESMENT/blob/0289a02f387c7c2c92ca02b50f72fb6f7c31362b/Screenshot%202026-04-16%20143535.png)
